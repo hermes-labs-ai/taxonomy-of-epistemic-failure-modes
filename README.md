@@ -2,7 +2,7 @@
 
 Canonical repository package for:
 
-> Rolando Bosch Rodriguez, “A Taxonomy of Epistemic Failure Modes in Large
+> Rolando Bosch, “A Taxonomy of Epistemic Failure Modes in Large
 > Language Models,” Zenodo preprint (2026).
 > <https://doi.org/10.5281/zenodo.19042469>
 

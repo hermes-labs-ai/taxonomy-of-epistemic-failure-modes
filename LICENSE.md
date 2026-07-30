@@ -17,7 +17,7 @@ License deed and legal code:
 
 Suggested attribution:
 
-> Rolando Bosch Rodriguez, “A Taxonomy of Epistemic Failure Modes in Large
+> Rolando Bosch, “A Taxonomy of Epistemic Failure Modes in Large
 > Language Models,” Hermes Labs (2026),
 > doi:10.5281/zenodo.19042469.
 
