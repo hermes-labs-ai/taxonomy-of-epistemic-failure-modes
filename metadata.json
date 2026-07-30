@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.5281/zenodo.19042469",
+  "name": "A Taxonomy of Epistemic Failure Modes in Large Language Models",
+  "headline": "A Taxonomy of Epistemic Failure Modes in Large Language Models",
+  "description": "A bottom-up taxonomy of seven reported epistemic failure modes in large language models, with an accompanying twelve-experiment registry and explicit limits on corpus-level and mechanistic claims.",
+  "author": {
+    "@type": "Person",
+    "givenName": "Rolando",
+    "familyName": "Bosch Rodriguez",
+    "identifier": "https://orcid.org/0009-0005-4896-1112",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Hermes Labs"
+    }
+  },
+  "datePublished": "2026-03-15",
+  "inLanguage": "en",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zenodo"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "DOI",
+    "value": "10.5281/zenodo.19042469"
+  },
+  "keywords": [
+    "large language models",
+    "epistemic failure modes",
+    "behavioral evaluation",
+    "epistemic engineering",
+    "AI assurance",
+    "taxonomy"
+  ],
+  "citation": {
+    "@type": "ScholarlyArticle",
+    "@id": "https://doi.org/10.5281/zenodo.18867694",
+    "name": "The Asymmetric Burden of Proof: LLMs Show a Null-Result Asymmetry in a Matched-Vignette Benchmark"
+  },
+  "encoding": {
+    "@type": "MediaObject",
+    "encodingFormat": "application/pdf",
+    "name": "taxonomy-epistemic-failure-modes.pdf",
+    "sha256": "816e27b1748f4b3dd9243fc45a942d8c3c29eb525a88f7efad9398f7e77f6dc8"
+  }
+}
