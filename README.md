@@ -26,6 +26,8 @@ taxonomy design.
   <https://doi.org/10.5281/zenodo.19042469>
 - Hermes Labs publication index:
   <https://github.com/hermes-labs-ai/hermes-publications/tree/main/papers/epistemic-failure-taxonomy>
+- Accessible HTML edition:
+  <https://hermes-labs.ai/research/taxonomy-of-epistemic-failure-modes>
 - Hermes Labs hosted PDF:
   <https://hermes-labs.ai/papers/taxonomy-epistemic-failure-modes.pdf>
 - Quantitative Mode 1 paper:
