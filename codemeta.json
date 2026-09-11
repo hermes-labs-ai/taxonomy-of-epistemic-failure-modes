@@ -1,0 +1,35 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "A Taxonomy of Epistemic Failure Modes in Large Language Models",
+  "description": "This paper organizes seven observed classes of epistemic failure in language models: Null-Result Asymmetry, Source-Status Credibility Bias, Agency Dissolution, Performative Hedging, Constraint Evasion, Silent Instruction Relaxation, and Controversy-Truth Conflation. It reports a bottom-up synthesis from an author-held research corpus and identifies twelve experiments by corpus identifier in the accompanying registry.",
+  "identifier": "https://doi.org/10.5281/zenodo.19042468",
+  "codeRepository": "https://github.com/hermes-labs-ai/taxonomy-of-epistemic-failure-modes",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "datePublished": "2026-03-15",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Rolando",
+      "familyName": "Bosch",
+      "@id": "https://orcid.org/0009-0005-4896-1112",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Hermes Labs"
+      }
+    }
+  ],
+  "keywords": [
+    "epistemic failure modes",
+    "LLM evaluation",
+    "uncertainty language",
+    "source-status effects",
+    "constraint following",
+    "behavioral taxonomy design"
+  ],
+  "relatedLink": [
+    "https://hermes-labs.ai/research/taxonomy-of-epistemic-failure-modes",
+    "https://hermes-labs.ai/papers/taxonomy-epistemic-failure-modes.pdf",
+    "https://github.com/hermes-labs-ai/hermes-publications/tree/main/papers/epistemic-failure-taxonomy"
+  ]
+}

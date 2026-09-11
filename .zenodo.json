@@ -1,0 +1,41 @@
+{
+  "title": "A Taxonomy of Epistemic Failure Modes in Large Language Models",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "This paper organizes seven observed classes of epistemic failure in language models: Null-Result Asymmetry, Source-Status Credibility Bias, Agency Dissolution, Performative Hedging, Constraint Evasion, Silent Instruction Relaxation, and Controversy-Truth Conflation. It reports a bottom-up synthesis from an author-held research corpus and identifies twelve experiments by corpus identifier in the accompanying registry.",
+  "creators": [
+    {
+      "name": "Bosch, Rolando",
+      "orcid": "0009-0005-4896-1112",
+      "affiliation": "Hermes Labs"
+    }
+  ],
+  "keywords": [
+    "AI",
+    "Artificial intelligence",
+    "Taxonomy",
+    "Silent AI failure modes",
+    "AI failure modes",
+    "Epistemic Failure Modes in LLMs",
+    "Epistemic engineering",
+    "AI assurance",
+    "model behavior",
+    "AI behavioral testing"
+  ],
+  "license": "CC-BY-4.0",
+  "access_right": "open",
+  "publication_date": "2026-03-15",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19042468",
+      "relation": "isIdenticalTo",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://hermes-labs.ai/research/taxonomy-of-epistemic-failure-modes",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    }
+  ],
+  "_comment": "This file mirrors the canonical Zenodo record (10.5281/zenodo.19042468, concept DOI) for discovery. The paper is already deposited directly on Zenodo. Do NOT connect this repository to the Zenodo GitHub integration / webhook: doing so would mint a second, duplicate DOI on the next GitHub release instead of pointing at the existing canonical record. Keep the GitHub-Zenodo integration OFF for this repository, exactly as hermes-publications already does."
+}
