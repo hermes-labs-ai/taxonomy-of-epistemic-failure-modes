@@ -1,5 +1,7 @@
 # A Taxonomy of Epistemic Failure Modes in Large Language Models
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19042468.svg)](https://doi.org/10.5281/zenodo.19042468)
+
 Canonical repository package for:
 
 > Rolando Bosch, “A Taxonomy of Epistemic Failure Modes in Large
@@ -42,6 +44,10 @@ taxonomy design.
 - `REFERENCE-AUDIT.md` — source-level reference resolution check.
 - `LICENSE.md`, `SHA256SUMS`, and `verify.py` — license, integrity manifest,
   and offline package verifier.
+- `CITATION.cff` — machine-readable citation metadata.
+- `codemeta.json` — CodeMeta 2.0 software/archive metadata.
+- `.zenodo.json` — Zenodo deposit metadata mirroring the canonical record.
+- `llms.txt` — machine-readable summary for retrieval agents.
 
 ## Evidence and data boundary
 

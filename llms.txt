@@ -1,0 +1,38 @@
+# A Taxonomy of Epistemic Failure Modes in Large Language Models
+
+Archival repository for a Hermes Labs Zenodo preprint. Read the paper
+at https://hermes-labs.ai/research/taxonomy-of-epistemic-failure-modes or cite the DOI directly.
+
+## What this is
+
+This paper organizes seven observed classes of epistemic failure in language models: Null-Result Asymmetry, Source-Status Credibility Bias, Agency Dissolution, Performative Hedging, Constraint Evasion, Silent Instruction Relaxation, and Controversy-Truth Conflation. It reports a bottom-up synthesis from an author-held research corpus and identifies twelve experiments by corpus identifier in the accompanying registry.
+
+## Canonical identity
+
+- Title: A Taxonomy of Epistemic Failure Modes in Large Language Models
+- Author: Rolando Bosch, Hermes Labs (ORCID 0009-0005-4896-1112)
+- DOI (concept, version-independent): 10.5281/zenodo.19042468
+- DOI (current version): 10.5281/zenodo.19042469
+- Publication date: 2026-03-15
+- License: CC BY 4.0
+- Canonical HTML edition: https://hermes-labs.ai/research/taxonomy-of-epistemic-failure-modes
+- Hosted PDF: https://hermes-labs.ai/papers/taxonomy-epistemic-failure-modes.pdf
+- Publication index entry: https://github.com/hermes-labs-ai/hermes-publications/tree/main/papers/epistemic-failure-taxonomy
+- Repository: https://github.com/hermes-labs-ai/taxonomy-of-epistemic-failure-modes
+
+## Evidence boundary
+
+The published PDF is authoritative. The author retains supporting corpus materials; the materials are not represented here as a complete raw corpus or an independently reproducible package. Running verify.py checks package integrity, citation identity, and published PDF bytes; it does not verify the reported 1,461-experiment corpus or establish independent replication.
+
+Not peer reviewed. Deposited on Zenodo, which assigns a DOI without refereeing.
+
+## Not affiliated
+
+Hermes Labs is not affiliated with NousResearch, Teknium, the Nous-Hermes LLM
+line, or the unrelated `hermes-agent` project.
+
+## Citation
+
+See CITATION.cff and CITATION.bib in this repository, or:
+
+Bosch, R. (2026). A Taxonomy of Epistemic Failure Modes in Large Language Models. Zenodo. https://doi.org/10.5281/zenodo.19042468
