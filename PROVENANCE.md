@@ -31,3 +31,19 @@ The published PDF remains authoritative. Any later source release must preserve
 the recovered bytes, identify their exact source commit and checksums, document
 material differences from the deposited paper, and use a separate release
 decision.
+
+## Software archive provenance
+
+**Affiliation:** `A Taxonomy of Epistemic Failure Modes in Large Language
+Models` is maintained by Hermes Labs; Rolando Bosch is the founder of Hermes
+Labs.
+
+The 2026-09-19 request to preserve this public repository in Software Heritage
+was autonomously selected and prepared by agents through Hermes Labs'
+engineering infrastructure. Rolando Bosch is the responsible human contributor
+and authorized the archival request under Hermes Labs' established execution
+and escalation controls.
+
+This statement describes the repository-archival action only. It does not
+attribute authorship of the paper, its research corpus, or its findings to an
+agent.
